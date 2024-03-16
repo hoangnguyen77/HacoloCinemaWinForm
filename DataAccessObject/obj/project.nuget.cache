@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5EKlCVbWV5kjyy4YgPjzXGRyapzsLghlUC/BxCZOM41lS9bCoZJ2d8YlyhayUH0poPzmm9AqPWV0ADggPbe8Qg==",
+  "dgSpecHash": "J1VfLqWpjU2ILQRaOsfwdd73rp6acNDpL0e4p4r2vkmpXr7izH1XONwK+qXDnojOBTYrJ1FXb1K0YXmRyz1Dgg==",
   "success": true,
-  "projectFilePath": "D:\\huyhoang\\ky5\\PRN211\\GroupProject_Team2_PRN211_HacoloCinema\\DataAccessObject\\DataAccessObject.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

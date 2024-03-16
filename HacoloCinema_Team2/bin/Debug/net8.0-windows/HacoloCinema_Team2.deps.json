@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HacoloCinema_Team2/1.0.0": {
+        "dependencies": {
+          "Repositories": "1.0.0"
+        },
+        "runtime": {
+          "HacoloCinema_Team2.dll": {}
+        }
+      },
+      "DataAccessObject/1.0.0": {
+        "runtime": {
+          "DataAccessObject.dll": {}
+        }
+      },
+      "Repositories/1.0.0": {
+        "dependencies": {
+          "DataAccessObject": "1.0.0"
+        },
+        "runtime": {
+          "Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HacoloCinema_Team2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

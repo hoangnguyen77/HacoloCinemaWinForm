@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\bin\Debug\net8.0\BussinessObject.deps.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\bin\Debug\net8.0\BussinessObject.runtimeconfig.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\bin\Debug\net8.0\BussinessObject.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\bin\Debug\net8.0\BussinessObject.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.AssemblyInfo.cs
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.sourcelink.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\refint\BussinessObject.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\BussinessObject.genruntimeconfig.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\BussinessObject\obj\Debug\net8.0\ref\BussinessObject.dll
