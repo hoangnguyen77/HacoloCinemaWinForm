@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj": {}
+    "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj": {
+    "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj",
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj",
         "projectName": "DataAccessObject",
-        "projectPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj",
-        "packagesPath": "C:\\Users\\tahoa\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\obj\\",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,25 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj": {
+    "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj",
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj",
         "projectName": "HacoloCinema_Team2",
-        "projectPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj",
-        "packagesPath": "C:\\Users\\tahoa\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\HacoloCinema_Team2\\obj\\",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\HacoloCinema_Team2\\HacoloCinema_Team2.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\HacoloCinema_Team2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +88,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj"
+              "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -101,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -125,25 +127,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\tahoa\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\N.Minh- ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tahoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\N.Minh- ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,8 +155,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj": {
-                "projectPath": "D:\\VisualStudioProjects\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj"
+              "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj": {
+                "projectPath": "C:\\Users\\N.Minh- ADMIN\\Pictures\\HacoloCinemaWinForm\\HacoloCinemaWinForm\\DataAccessObject\\DataAccessObject.csproj"
               }
             }
           }
@@ -167,6 +165,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -188,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

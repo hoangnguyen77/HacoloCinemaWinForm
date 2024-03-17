@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HacoloCinema_Team2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3178f7e11a8cb4f8c4064f92ace07c629aa1c623")]
 [assembly: System.Reflection.AssemblyProductAttribute("HacoloCinema_Team2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HacoloCinema_Team2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
